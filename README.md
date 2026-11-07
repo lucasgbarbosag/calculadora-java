@@ -9,7 +9,7 @@ Calculadora de console em Java com menu interativo.
 
 
 # Tecnologias
--Java 21.
+- Java 21.
 - IntelliJ IDEA.
 
 
